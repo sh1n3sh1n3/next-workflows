@@ -4,7 +4,7 @@ This is a sample project that demonstrates how to build and visualize interactiv
 
 ## Screenshots
 
-![App Screenshot](https://github.com/nobruf/shadcn-next-workflows/blob/main/public/screen.jpeg?raw=true)
+![App Screenshot](https://github.com/sh1n3sh1n3/next-workflows/blob/main/public/screen.jpeg?raw=true)
 
 ## ✨ Features
 
@@ -34,7 +34,7 @@ Make sure you have the following installed:
 
 - **Clone the repository**:
    ```bash
-   git clone https://github.com/nobruf/shadcn-next-workflows.git``
+   git clone https://github.com/sh1n3sh1n3/next-workflows.git``
 
 - **Install dependencies**:
    ```bash 
@@ -59,12 +59,6 @@ Open http://localhost:3000 in your browser to view the application.
 ## 🤝 Contributing
 
 Contributions are welcome! Feel free to fork the repository and submit pull requests.
-
-- Fork the Project.
-- Create your Feature Branch (`git checkout -b feature/AmazingFeature`).
-- Commit your Changes (`git commit -m 'Add some AmazingFeature'`).
-- Push to the Branch (`git push origin feature/AmazingFeature`).
-- Open a Pull Request.
 
 ## 📝 License
 
